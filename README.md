@@ -1,4 +1,4 @@
-# Mon Projet JavaFX
+# java-fx-dev-env
 
 Ce projet est une application JavaFX simple qui affiche "Hello World" et illustre la mise en place d'un environnement de développement moderne avec Maven, JavaFX, JUnit, JaCoCo et Checkstyle. Ce projet a été conçu pour répondre aux exigences d'un TP de configuration d'environnement de développement Java.
 
