@@ -112,6 +112,10 @@ Les contributions sont les bienvenues ! Pour proposer des modifications :
 2. Respectez les conventions de commits (exemple : `feat: ajout de la fonctionnalité X`).
 3. Assurez-vous que tous les tests passent avant de soumettre votre pull request.
 
+## Auteur
+
+Abdouarrahmane FOUAD
+
 ## Licence
 
 Ce projet est sous licence MIT.
